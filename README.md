@@ -1,4 +1,4 @@
-# Pregunta PDF
+# Preguntar PDF
 
 Este proyecto permite preguntar sobre archivos PDF de forma local y privada, utilizando modelos de lenguaje (LLM) que corren en tu propia máquina, a **Ollama**. No se envían datos a la nube.
 
