@@ -11,6 +11,7 @@ Antes de empezar, asegúrate de tener instalado **Python 3.11** o superior en tu
 Ollama es el motor que permite ejecutar los modelos de IA localmente.
 
 1. **Descarga e instalación en Linux:**
+   
    Abre una terminal y ejecuta el script oficial:
    ```bash
    curl -fsSL [https://ollama.com/install.sh](https://ollama.com/install.sh) | sh
