@@ -37,4 +37,10 @@ Ollama es el motor que permite ejecutar los modelos de IA localmente.
   ```bash
   python main.py
   ```
+
+## Demo
+
+https://github.com/user-attachments/assets/e3732124-0c9d-423b-ba86-8058fefc06e1
+
+
   
